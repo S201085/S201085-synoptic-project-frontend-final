@@ -1,0 +1,8 @@
+{
+  "short_name": "Wildlife Mapper",
+  "name": "A location-based app to report wildlife sightings",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}

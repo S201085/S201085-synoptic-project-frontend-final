@@ -1,0 +1,7 @@
+ErrorDocument 403 /WildlifeMapper/index.html
+ErrorDocument 404 /WildlifeMapper/index.html
+ErrorDocument 500 /WildlifeMapper/index.html
+Header set Access-Control-Allow-Origin "*"
+Header set Access-Control-Allow-Methods "GET,POST,PUT,DELETE,OPTIONS"
+Header set Access-Control-Expose-Headers "visibility"
+Header set Access-Control-Allow-Headers "Content-Type, Authorization, visibility, Origin, X-Requested-With, Accept"
